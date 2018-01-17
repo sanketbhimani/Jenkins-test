@@ -1,1 +1,1 @@
-print "Hello Everyone! jalsa karjo!"
+print "Hello Everyone!"
